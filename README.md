@@ -5,8 +5,6 @@
 <h3 align="center">🚀 Machine Learning Engineer | Computer Vision & NLP Specialist | MLOps Expert</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sai-sujan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sai-sujan?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" alt="focus" />
   <img src="https://img.shields.io/badge/Lives-Springfield%20MO-success" alt="location" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-red" alt="status" />
