@@ -57,14 +57,9 @@ education:
   gpa: 3.63/4.0
   graduation: December 2025
 
-work_authorization:
-  status: F-1 OPT
-  extension: 36-month STEM
-  availability: Immediate upon graduation
 
 seeking:
   - Full-time ML Engineer roles
-  - H-1B sponsorship opportunities
   - Innovative AI companies
 ```
 
