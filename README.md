@@ -1,92 +1,156 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0099FF&height=200&section=header&text=Sujan%20Dora&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20AI%20Innovator&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=SUJAN%20DORA&fontSize=70&fontColor=fff&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=45&desc=Machine%20Learning%20Engineer%20|%20AI%20Innovator%20|%2099%25%20Reliability&descSize=20&descAlignY=65" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+AI+Engineering+Journey+%F0%9F%9A%80;Building+Production+ML+Systems+at+Scale;2%2B+Years+%7C+99%25+Reliability+%7C+97%25+Cost+Savings;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+MLOps+%E2%80%A2+Deep+Learning" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sai-sujan-6110a4190">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
+  <a href="mailto:sujanworkofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
+  <a href="https://sai-sujan.github.io/My-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
+  </a>
+  <a href="tel:+19408430811">
+    <img src="https://img.shields.io/badge/Call-9408430811-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems+%F0%9F%9A%80;2%2B+Years+ML+Experience+%7C+99%25+Reliability;Computer+Vision+%7C+NLP+%7C+MLOps+Expert;15%25+False+Positive+Reduction+%7C+40%25+Speed+Boost" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=sai-sujan&label=Profile%20Views&color=00D9FF&style=for-the-badge&abbreviated=true" />
+  <img src="https://img.shields.io/github/followers/sai-sujan?label=Followers&style=for-the-badge&color=00D9FF&logo=github" />
+  <img src="https://img.shields.io/badge/🔥_Status-OPEN_TO_WORK-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_GPA-3.63%2F4.0-blue?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sai-sujan-6110a4190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sujanworkofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://sai-sujan.github.io/My-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="tel:+19408430811"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sai-sujan&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sai-sujan?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-OPEN%20TO%20WORK-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="400" alt="AI Animation">
+</div>
 
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🎯 Quick Highlights
+### 🎯 About Me
 
 ```yaml
 name: Sujan Dora
-located_in: Springfield, Missouri
-current_role: ML Engineer & Graduate Student
-education: 
-  - "M.S. Computer Science (GPA: 3.63)"
-  - "Missouri State University"
+location: 📍 Springfield, Missouri, USA
+role: 🤖 Machine Learning Engineer
+education: 🎓 M.S. Computer Science @ Missouri State University
+gpa: 3.63/4.0
 graduation: December 2025
-work_auth: "F-1 OPT (36-month STEM extension)"
+status: 💼 Open to Full-Time Opportunities
+work_authorization: F-1 OPT (36-month STEM extension)
 
-fields_of_interests:
-  - "Computer Vision"
-  - "Natural Language Processing"
-  - "Large Language Models"
-  - "MLOps & Production Systems"
-  - "Anomaly Detection"
+expertise:
+  - Computer Vision & Image Processing
+  - Natural Language Processing & LLMs
+  - MLOps & Production Deployment
+  - Deep Learning & Neural Networks
+  - Cloud Architecture (AWS)
   
-technical_background:
-  - "TensorFlow & PyTorch Specialist"
-  - "AWS Cloud Architecture"
-  - "End-to-End ML Pipelines"
-  - "Production System Deployment"
-  
-currently_learning: 
-  - "Advanced LLM Fine-tuning"
-  - "Distributed Training"
-  - "Real-time ML Systems"
+impact:
+  - 15% reduction in false positives
+  - 40% faster verification systems
+  - 99% production reliability
+  - 97% cloud cost optimization
+  - Led teams of 4-12 developers
 ```
 
 <br clear="right"/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 🏆 Career Impact Dashboard
+## 🏆 Impact Metrics & Achievements
 
 <div align="center">
 
-| 🎯 Metric | 📊 Achievement | 💼 Context |
-|:---------:|:--------------:|:----------:|
-| **False Positives** | ![Decrease](https://img.shields.io/badge/↓_15%25-success?style=for-the-badge) | MFA Security System |
-| **Verification Speed** | ![Increase](https://img.shields.io/badge/↑_40%25-success?style=for-the-badge) | Face Recognition |
-| **System Reliability** | ![Reliability](https://img.shields.io/badge/99%25-critical?style=for-the-badge) | Production ML Systems |
-| **Cost Reduction** | ![Cost](https://img.shields.io/badge/↓_97%25-success?style=for-the-badge) | AWS Infrastructure |
-| **Data Accuracy** | ![Accuracy](https://img.shields.io/badge/↑_25%25-success?style=for-the-badge) | Anomaly Detection |
-| **API Response** | ![API](https://img.shields.io/badge/186ms-informational?style=for-the-badge) | Wine Quality Pipeline |
-| **Team Leadership** | ![Team](https://img.shields.io/badge/4_Developers-blueviolet?style=for-the-badge) | Production Team |
-| **Code Reviews** | ![Reviews](https://img.shields.io/badge/12_Developers-orange?style=for-the-badge) | Quality Assurance |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" />
+<br><br>
+<b>🔒 Security Enhancement</b>
+<br><br>
+<img src="https://img.shields.io/badge/↓_15%25-False_Positives-success?style=for-the-badge" />
+<br>
+<sub>MFA Systems | 10K+ Daily Auth</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100" />
+<br><br>
+<b>⚡ Performance Boost</b>
+<br><br>
+<img src="https://img.shields.io/badge/↑_40%25-Speed_Improvement-brightgreen?style=for-the-badge" />
+<br>
+<sub>Face Verification | 5K+ Sessions/Week</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100" />
+<br><br>
+<b>💰 Cost Optimization</b>
+<br><br>
+<img src="https://img.shields.io/badge/↓_97%25-Infrastructure_Cost-important?style=for-the-badge" />
+<br>
+<sub>AWS Lambda | $7.50 → $0.20/month</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100" />
+<br><br>
+<b>🎯 Data Accuracy</b>
+<br><br>
+<img src="https://img.shields.io/badge/↑_25%25-Accuracy_Boost-blue?style=for-the-badge" />
+<br>
+<sub>Anomaly Detection | 10K+ Records/Day</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb4a4ee-b68c-4e11-819b-f168dee84280" width="100" />
+<br><br>
+<b>🚀 System Reliability</b>
+<br><br>
+<img src="https://img.shields.io/badge/99%25-Production_Uptime-critical?style=for-the-badge" />
+<br>
+<sub>ML Systems | Team of 4 Engineers</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d3c5d9d6-2f1c-4e18-b9f2-2a6b0b0e0e90" width="100" />
+<br><br>
+<b>⚙️ API Performance</b>
+<br><br>
+<img src="https://img.shields.io/badge/186ms-Response_Time-informational?style=for-the-badge" />
+<br>
+<sub>Wine Quality Pipeline | 99.9% Uptime</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 💻 Tech Arsenal
+## 💻 Technology Stack
 
-<details open>
-<summary><b>🤖 Machine Learning & AI</b></summary>
-<br>
+<div align="center">
 
+### 🤖 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -96,18 +160,7 @@ currently_learning:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Specializations:**
-- 🎯 Computer Vision (Object Detection, Face Recognition, Image Classification)
-- 💬 Natural Language Processing (Transformers, LLMs, Sentiment Analysis)
-- 🔍 Anomaly Detection (Fraud Detection, MFA Security)
-- 🧠 Deep Learning (CNNs, Vision Transformers, Neural Networks)
-
-</details>
-
-<details open>
-<summary><b>⚙️ MLOps & DevOps</b></summary>
-<br>
-
+### ⚙️ MLOps & DevOps
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![ZenML](https://img.shields.io/badge/ZenML-431D93?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -115,18 +168,7 @@ currently_learning:
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Pipeline Expertise:**
-- 🔄 CI/CD Automation (GitHub Actions, CircleCI)
-- 📦 Containerization (Docker, Multi-stage builds)
-- 📊 Experiment Tracking (MLflow, Model Registry)
-- 🚀 Model Deployment (Serverless, Microservices)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br>
-
+### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
@@ -135,18 +177,7 @@ currently_learning:
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-**Cloud Skills:**
-- 💰 Cost Optimization (97% reduction achieved)
-- 🏗️ Serverless Architecture (Lambda, API Gateway)
-- 📦 Container Orchestration (ECR, Docker)
-- 🔐 Security & IAM Management
-
-</details>
-
-<details open>
-<summary><b>🛠️ Development & Tools</b></summary>
-<br>
-
+### 🛠️ Development Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -154,84 +185,84 @@ currently_learning:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-</details>
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/sai-sujan/wine-quality-mlops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sujan&repo=wine-quality-mlops&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
 ### 🍷 Wine Quality Prediction - Enterprise MLOps Pipeline
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sai-sujan/wine-quality-mlops)
+[![Stars](https://img.shields.io/github/stars/sai-sujan/wine-quality-mlops?style=for-the-badge&logo=github)](https://github.com/sai-sujan/wine-quality-mlops)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sujan&repo=wine-quality-mlops&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
 
 </div>
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
-**🎯 Project Highlights:**
-- ⚡ **186ms** API response time with 99.9% uptime
+#### 🎯 Highlights
+- ⚡ **186ms** API response time
 - 💰 **97% cost reduction** ($7.50 → $0.20/month)
-- 📦 **90% smaller** deployment size (300MB → 60MB)
-- 🔄 Fully automated CI/CD with GitHub Actions
+- 📦 **90% smaller** deployment (300MB → 60MB)
+- 🔄 Fully automated CI/CD pipeline
 - 🐳 Multi-stage Docker optimization
-- 📊 MLflow experiment tracking & model registry
-- 🏗️ ZenML orchestration pipeline
+- 📊 MLflow tracking & model registry
 
-**Tech Stack:**
+#### 🛠️ Tech Stack
 ```python
-stack = {
-    'ML': ['Python', 'Scikit-learn', 'Pandas'],
-    'MLOps': ['ZenML', 'MLflow', 'DVC'],
-    'Cloud': ['AWS Lambda', 'S3', 'ECR', 'API Gateway'],
-    'DevOps': ['Docker', 'GitHub Actions', 'Poetry'],
-    'API': ['FastAPI', 'Uvicorn']
+{
+  'ML': 'Scikit-learn, Pandas, NumPy',
+  'MLOps': 'ZenML, MLflow, DVC',
+  'Cloud': 'AWS Lambda, S3, ECR',
+  'DevOps': 'Docker, GitHub Actions',
+  'API': 'FastAPI, Uvicorn'
 }
 ```
 
 </td>
-<td width="40%">
+<td width="50%">
 
-**📈 Performance Metrics:**
+#### 📊 Metrics
 
-| Metric | Value |
-|--------|-------|
-| Accuracy | 92% |
-| Latency | 186ms |
-| Uptime | 99.9% |
-| Cost/Month | $0.20 |
-| Build Time | <5 min |
-| Image Size | 60 MB |
+| Metric | Value | Status |
+|--------|-------|--------|
+| **Accuracy** | 92% | ✅ |
+| **Latency** | 186ms | ✅ |
+| **Uptime** | 99.9% | ✅ |
+| **Cost/Month** | $0.20 | ✅ |
+| **Build Time** | <5 min | ✅ |
+| **Image Size** | 60 MB | ✅ |
 
-![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge&logo=checkmarx)
-![AWS](https://img.shields.io/badge/AWS-Deployed-FF9900?style=for-the-badge&logo=amazon-aws)
+<br>
 
-[📂 View Repository](https://github.com/sai-sujan/wine-quality-mlops)
+![Production](https://img.shields.io/badge/Status-Production-success?style=for-the-badge&logo=checkmarx)
+![AWS](https://img.shields.io/badge/Deployed-AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 <div align="center">
 
-<a href="https://github.com/sai-sujan/lung-cancer-vit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sujan&repo=lung-cancer-vit&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
 ### 🫁 Lung Cancer Detection - Vision Transformers
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sai-sujan/lung-cancer-vit)
+[![Stars](https://img.shields.io/github/stars/sai-sujan/lung-cancer-vit?style=for-the-badge&logo=github)](https://github.com/sai-sujan/lung-cancer-vit)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sujan&repo=lung-cancer-vit&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
 
 </div>
 
@@ -239,56 +270,53 @@ stack = {
 <tr>
 <td width="50%">
 
-**🎯 Project Highlights:**
-- 🧠 **92% accuracy** using Vision Transformers
+#### 🎯 Highlights
+- 🧠 **92% accuracy** with Vision Transformers
 - 🏥 Real-time CT scan analysis
-- 🌐 Production-ready Streamlit deployment
+- 🌐 Production Streamlit deployment
 - 📊 Advanced preprocessing pipeline
-- 🔬 Medical-grade image classification
-- ⚡ Optimized for inference speed
+- 🔬 Medical-grade classification
+- ⚡ Optimized inference speed
 
-**Model Architecture:**
+#### 🏗️ Architecture
 ```
-Input (224x224x3)
-    ↓
+Input (224×224×3)
+       ↓
 Vision Transformer Encoder
-    ↓
+       ↓
 Multi-Head Attention (12 heads)
-    ↓
+       ↓
 Feed-Forward Network
-    ↓
-Classification Head
-    ↓
-Output (4 cancer types)
+       ↓
+Classification Head (4 classes)
 ```
 
 </td>
 <td width="50%">
 
-**🔬 Technical Details:**
+#### 🔬 Technical Details
 
 - **Model:** Vision Transformer (ViT-B/16)
-- **Dataset:** IQ-OTHNCCD Lung Cancer Dataset
+- **Dataset:** IQ-OTHNCCD Lung Cancer
 - **Classes:** 4 cancer types
 - **Accuracy:** 92%
-- **Preprocessing:** Augmentation + Normalization
 - **Framework:** TensorFlow 2.x
 - **Deployment:** Streamlit Cloud
 
-![Healthcare](https://img.shields.io/badge/Healthcare_AI-Medical_Imaging-red?style=for-the-badge&logo=heart)
-![DL](https://img.shields.io/badge/Deep_Learning-Vision_Transformers-blueviolet?style=for-the-badge&logo=tensorflow)
+<br>
 
-[📂 Repository](https://github.com/sai-sujan/lung-cancer-vit)
+![Healthcare](https://img.shields.io/badge/Healthcare_AI-Medical_Imaging-red?style=for-the-badge&logo=heart)
+![DL](https://img.shields.io/badge/Vision_Transformers-Deep_Learning-blueviolet?style=for-the-badge&logo=tensorflow)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 <div align="center">
 
-### 🍳 Cooking AI Assistant | ✈️ British Airways Dashboard
+### 🍳 Cooking AI Assistant & ✈️ British Airways Analytics
 
 </div>
 
@@ -296,43 +324,48 @@ Output (4 cancer types)
 <tr>
 <td width="50%">
 
-<a href="https://github.com/sai-sujan/cooking-ai-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sujan&repo=cooking-ai-app&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
+<div align="center">
 
-**🤖 Gemini LLM Mobile App**
+[![Repo](https://img.shields.io/badge/GitHub-Cooking_AI-181717?style=for-the-badge&logo=github)](https://github.com/sai-sujan/cooking-ai-app)
 
-- 📱 Flutter cross-platform app
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sujan&repo=cooking-ai-app&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
+
+</div>
+
+#### 🤖 Gemini LLM Mobile App
+
+- 📱 Flutter cross-platform application
 - 🧠 Google Gemini Pro integration
 - 🥘 Personalized recipe generation
 - 💡 Real-time nutrition analysis
 - 🎯 Ingredient-based recommendations
-- 🔥 User preference learning
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
-![Gemini](https://img.shields.io/badge/Gemini_LLM-8E75B2?style=flat-square&logo=google)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 
 </td>
 <td width="50%">
 
-**📊 BA Customer Analytics**
+<div align="center">
+
+**📊 BA Customer Analytics Dashboard**
+
+</div>
+
+#### ✈️ Key Features
 
 - 📈 Interactive Tableau dashboard
-- ✈️ 50,000+ customer reviews analyzed
+- ✈️ 50,000+ customer reviews
 - 🌍 Geographic sentiment mapping
 - 📉 Service quality trends
 - 🎯 Data-driven recommendations
-- 💼 Executive-ready insights
+- 💼 Executive insights
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)
-![Analytics](https://img.shields.io/badge/Analytics-Data_Viz-orange?style=flat-square&logo=chartdotjs)
+![Analytics](https://img.shields.io/badge/Data_Analytics-Visualization-orange?style=flat-square)
 
-**Key Insights:**
-- Customer satisfaction trends
-- Route-specific performance
-- Service improvement areas
-- Competitive benchmarking
+**Insights:** Customer satisfaction • Route performance • Service improvements
 
 </td>
 </tr>
@@ -340,204 +373,258 @@ Output (4 cancer types)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 💼 Professional Experience
+## 💼 Professional Journey
 
-### 🏢 Machine Learning Engineer | Grootan Technologies
-*July 2023 – December 2023 | Chennai, India*
+<div align="center">
+
+```mermaid
+timeline
+    title ML Engineering Career Path
+    2021-11 : Data Science Intern
+            : iNeuron.ai
+            : Built credit default prediction
+    2022-09 : ML Intern
+            : Grootan Technologies
+            : Developed CV models
+    2023-07 : ML Engineer
+            : Grootan Technologies
+            : Led production teams
+    2024-01 : Graduate Student
+            : Missouri State University
+            : M.S. Computer Science
+```
+
+</div>
+
+<details open>
+<summary><b>🏢 Machine Learning Engineer | Grootan Technologies</b></summary>
+
+**July 2023 – December 2023 | Chennai, India**
 
 ```python
 achievements = {
-    '🔒 Anomaly Detection': {
-        'impact': '15% reduction in false positives',
-        'scale': '10,000+ daily authentications',
-        'system': 'Multi-Factor Authentication'
-    },
-    '👥 Team Leadership': {
-        'team_size': 4,
-        'accuracy_improvement': '25%',
-        'reliability': '99%'
-    },
-    '⚡ Performance Optimization': {
-        'inference_improvement': '35%',
-        'application': 'Real-time MFA'
-    },
-    '👨‍💻 Code Quality': {
-        'developers_reviewed': 12,
-        'error_reduction': '20%'
-    },
-    '🖥️ Product Enhancement': {
-        'engagement_increase': '30%',
-        'users': '500+ active'
-    }
+    'security': {'false_positive_reduction': '15%', 'daily_auth': '10,000+'},
+    'leadership': {'team_size': 4, 'accuracy_boost': '25%', 'reliability': '99%'},
+    'performance': {'inference_speed': '+35%', 'application': 'Real-time MFA'},
+    'code_quality': {'developers_mentored': 12, 'error_reduction': '20%'},
+    'product': {'engagement_increase': '30%', 'active_users': '500+'}
 }
 ```
 
-### 🏢 Machine Learning Intern | Grootan Technologies
-*September 2022 – July 2023 | Chennai, India*
+**Key Achievements:**
+- 🔒 Deployed anomaly detection for MFA reducing false positives by **15%**
+- 👥 Led team of **4 developers** achieving **99% reliability**
+- ⚡ Optimized ML inference by **35%** for real-time systems
+- 👨‍💻 Conducted code reviews for **12 developers**, reducing errors by **20%**
+- 🖥️ Enhanced desktop app increasing engagement by **30%**
 
-- 🆔 Developed hologram detection models: **95% precision** across **20,000+ documents**
-- 👤 Built face verification system: **40% faster**, **98% accuracy**, **5,000+ sessions/week**
-- 🚫 Reduced fraud by **25%** across **100,000+ transactions**
-- 🚀 Optimized deployment by **30%** through comprehensive testing
+</details>
 
-### 🏢 Data Science Intern | iNeuron.ai
-*November 2021 – March 2022 | Bengaluru, India*
+<details>
+<summary><b>🏢 Machine Learning Intern | Grootan Technologies</b></summary>
 
-- 💳 Built credit default prediction: **87% accuracy** with Docker + CircleCI + Heroku
-- 🔄 Reduced deployment downtime by **50%** with CI/CD pipeline
-- 📊 Improved model performance by **12%** through EDA on **30,000+ records**
-- ⚡ Cut data preprocessing time by **60%**
+**September 2022 – July 2023 | Chennai, India**
 
----
+- 🆔 Hologram detection: **95% precision** across **20,000+ documents**
+- 👤 Face verification: **40% faster**, **98% accuracy**, **5,000+ sessions/week**
+- 🚫 Fraud reduction: **25%** across **100,000+ transactions**
+- 🚀 Deployment optimization: **30% faster** through testing pipelines
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</details>
 
-## 📊 GitHub Analytics
+<details>
+<summary><b>🏢 Data Science Intern | iNeuron.ai</b></summary>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-sujan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-sujan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
+**November 2021 – March 2022 | Bengaluru, India**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sujan&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
+- 💳 Credit default prediction: **87% accuracy** (Docker + CircleCI + Heroku)
+- 🔄 CI/CD pipeline: **50% deployment downtime** reduction
+- 📊 EDA on **30,000+ records**: **12% performance** improvement
+- ⚡ Data preprocessing: **60% time** reduction
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-sujan&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" />
-</p>
+</details>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 🏆 Achievements & Recognition
+## 📊 GitHub Statistics
 
 <div align="center">
 
-| Achievement | Details |
-|------------|---------|
-| 📜 **IEEE Publication** | "Detecting Bias in the Relative Grading System Using Machine Learning" |
-| 👥 **Team Leadership** | Led 4-member team to 99% system reliability |
-| 📝 **Code Quality Excellence** | Reviewed code for 12 developers, 20% error reduction |
-| 🎓 **Academic Performance** | 3.63/4.0 GPA in M.S. Computer Science |
-| 🚀 **Production Impact** | ML models serving 10,000+ daily users |
-| 💰 **Cost Optimization** | 97% infrastructure cost reduction |
-| ⚡ **Performance Gains** | 40% verification speed improvement |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-sujan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-sujan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sujan&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-sujan&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true&radius=15" />
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 💡 What I'm Up To
+## 🏆 Recognition & Publications
 
+<div align="center">
+
+| 🎖️ Achievement | 📄 Details |
+|:-------------:|:----------|
+| **📜 IEEE Publication** | "Detecting Bias in the Relative Grading System Using Machine Learning" |
+| **👥 Team Leadership** | Led 4-member team to 99% system reliability in production |
+| **📝 Code Excellence** | Mentored 12 developers, achieved 20% error reduction |
+| **🎓 Academic Merit** | 3.63/4.0 GPA in M.S. Computer Science |
+| **🚀 Production Scale** | ML models serving 10,000+ daily users |
+| **💰 Cost Innovation** | 97% infrastructure cost optimization |
+| **⚡ Performance** | 40% speed improvement in critical systems |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## 💡 Currently Focused On
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Education
 ```javascript
-const currentFocus = {
-    education: {
-        degree: "M.S. Computer Science",
-        university: "Missouri State University",
-        gpa: "3.63/4.0",
-        graduation: "December 2025"
-    },
-    
-    job_search: {
-        seeking: "Full-time ML Engineer roles",
-        sponsorship: "H-1B sponsorship required",
-        work_auth: "F-1 OPT (36-month STEM extension available)",
-        availability: "December 2025"
-    },
-    
-    learning: [
-        "Advanced LLM Fine-tuning & Deployment",
-        "Distributed Training at Scale",
-        "Real-time ML Systems",
-        "MLOps Best Practices"
-    ],
-    
-    building: [
-        "Production ML Pipelines",
-        "Computer Vision Applications",
-        "NLP Solutions with LLMs",
-        "End-to-End MLOps Systems"
-    ],
-    
-    strengths: [
-        "End-to-End ML Development",
-        "Production System Deployment",
-        "Team Leadership & Collaboration",
-        "Performance Optimization"
-    ]
-};
+{
+  degree: "M.S. Computer Science",
+  university: "Missouri State University",
+  gpa: "3.63/4.0",
+  graduation: "December 2025",
+  specialization: "Machine Learning & AI"
+}
 ```
 
----
+### 🔍 Job Search
+```javascript
+{
+  seeking: "Full-time ML Engineer",
+  sponsorship: "H-1B required",
+  authorization: "F-1 OPT",
+  extension: "36-month STEM",
+  availability: "December 2025"
+}
+```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-### I'm actively seeking opportunities in:
-
-🔹 **Machine Learning Engineering** • 🔹 **Computer Vision** • 🔹 **NLP/LLMs** • 🔹 **MLOps**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
-<br><b>Production ML</b>
-<br>Deploying scalable AI systems
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-<br><b>Deep Learning</b>
-<br>Computer Vision & NLP
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/cloud.png" width="60"/>
-<br><b>Cloud MLOps</b>
-<br>AWS Infrastructure
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/teamwork.png" width="60"/>
-<br><b>Team Leadership</b>
-<br>Collaborative Development
+<td width="50%">
+
+### 📚 Learning
+- Advanced LLM Fine-tuning & RAG
+- Distributed Training at Scale
+- Real-time ML System Design
+- Advanced MLOps Patterns
+- Cloud-Native Architectures
+
+### 🛠️ Building
+- Production ML Pipelines
+- Computer Vision Applications
+- LLM-Powered Solutions
+- End-to-End MLOps Systems
+- Scalable AI Infrastructure
+
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 📬 Get In Touch
+## 🤝 Open for Collaboration
+
+<div align="center">
+
+### 🎯 Seeking Opportunities In
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="80" />
+<br><br>
+<b>Production ML</b>
+<br><sub>Scalable AI Systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="80" />
+<br><br>
+<b>Computer Vision</b>
+<br><sub>Image & Video Analysis</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="80" />
+<br><br>
+<b>NLP & LLMs</b>
+<br><sub>Language AI Solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80" />
+<br><br>
+<b>MLOps</b>
+<br><sub>CI/CD & Deployment</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## 📬 Let's Connect!
 
 <div align="center">
 
 <a href="mailto:sujanworkofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧_Email-sujanworkofficial%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://linkedin.com/in/sai-sujan-6110a4190">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://sai-sujan.github.io/My-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+
 <a href="https://github.com/sai-sujan">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻_GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-### 💬 Open to discuss:
-**Machine Learning Projects** • **Job Opportunities** • **Technical Collaborations** • **Research Ideas**
+### 💬 Let's Discuss
+**ML Projects** • **Job Opportunities** • **Research Collaborations** • **Technical Consulting**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
 </div>
 
@@ -545,26 +632,16 @@ const currentFocus = {
 
 <div align="center">
 
-### 🌟 "Transforming data into intelligent solutions, one model at a time" 🌟
+### 🌟 "Transforming Data into Intelligent Solutions" 🌟
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br>
 
-**⭐ Open to exciting ML opportunities! Let's build something amazing together! ⭐**
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Profile Stats
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-sujan&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Open+to+Exciting+ML+Opportunities!;Let's+Build+Something+Amazing+Together!;Production+AI+%E2%80%A2+Innovation+%E2%80%A2+Impact)](https://github.com/sai-sujan)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0099FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </p>
