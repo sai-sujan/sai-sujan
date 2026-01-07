@@ -44,7 +44,7 @@ me = MLEngineer()
 
 🎓 **Currently:** Completed M.S. in Computer Science (GPA: 3.63/4.0)  
 💼 **Experience:** 2+ years building production ML systems  
-🔍 **Looking for:** Full-time ML Engineer roles with H-1B sponsorship  
+🔍 **Looking for:** Full-time ML Engineer roles 
 📫 **Reach me:** sujanworkofficial@gmail.com
 
 ---
