@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Production+AI+Systems+%F0%9F%9A%80;2%2B+Years+ML+Experience+%7C+99%25+Reliability;Computer+Vision+%7C+NLP+%7C+MLOps+Expert;15%25+%E2%86%93+False+Positives+%7C+40%25+%E2%86%91+Speed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems+%F0%9F%9A%80;2%2B+Years+ML+Experience+%7C+99%25+Reliability;Computer+Vision+%7C+NLP+%7C+MLOps+Expert;15%25+False+Positive+Reduction+%7C+40%25+Speed+Boost" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sai-sujan-6110a4190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+  <a href="https://linkedin.com/in/sai-sujan-6110a4190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sujanworkofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://sai-sujan.github.io/My-portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="tel:+19408430811"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a>
@@ -66,14 +66,14 @@ currently_learning:
 
 | 🎯 Metric | 📊 Achievement | 💼 Context |
 |:---------:|:--------------:|:----------:|
-| **False Positives** | <img src="https://img.shields.io/badge/↓_15%25-success?style=for-the-badge&logo=trending-down"/> | MFA Security System |
-| **Verification Speed** | <img src="https://img.shields.io/badge/↑_40%25-success?style=for-the-badge&logo=trending-up"/> | Face Recognition |
-| **System Reliability** | <img src="https://img.shields.io/badge/99%25-critical?style=for-the-badge&logo=checkmarx"/> | Production ML Systems |
-| **Cost Reduction** | <img src="https://img.shields.io/badge/↓_97%25-success?style=for-the-badge&logo=trending-down"/> | AWS Infrastructure |
-| **Data Accuracy** | <img src="https://img.shields.io/badge/↑_25%25-success?style=for-the-badge&logo=trending-up"/> | Anomaly Detection |
-| **API Response** | <img src="https://img.shields.io/badge/186ms-informational?style=for-the-badge&logo=fastapi"/> | Wine Quality Pipeline |
-| **Team Leadership** | <img src="https://img.shields.io/badge/4_Developers-blueviolet?style=for-the-badge&logo=team"/> | Production Team |
-| **Code Reviews** | <img src="https://img.shields.io/badge/12_Developers-orange?style=for-the-badge&logo=github"/> | Quality Assurance |
+| **False Positives** | ![Decrease](https://img.shields.io/badge/↓_15%25-success?style=for-the-badge) | MFA Security System |
+| **Verification Speed** | ![Increase](https://img.shields.io/badge/↑_40%25-success?style=for-the-badge) | Face Recognition |
+| **System Reliability** | ![Reliability](https://img.shields.io/badge/99%25-critical?style=for-the-badge) | Production ML Systems |
+| **Cost Reduction** | ![Cost](https://img.shields.io/badge/↓_97%25-success?style=for-the-badge) | AWS Infrastructure |
+| **Data Accuracy** | ![Accuracy](https://img.shields.io/badge/↑_25%25-success?style=for-the-badge) | Anomaly Detection |
+| **API Response** | ![API](https://img.shields.io/badge/186ms-informational?style=for-the-badge) | Wine Quality Pipeline |
+| **Team Leadership** | ![Team](https://img.shields.io/badge/4_Developers-blueviolet?style=for-the-badge) | Production Team |
+| **Code Reviews** | ![Reviews](https://img.shields.io/badge/12_Developers-orange?style=for-the-badge) | Quality Assurance |
 
 </div>
 
@@ -214,8 +214,8 @@ stack = {
 | Build Time | <5 min |
 | Image Size | 60 MB |
 
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge&logo=checkmarx"/>
-<img src="https://img.shields.io/badge/AWS-Deployed-FF9900?style=for-the-badge&logo=amazon-aws"/>
+![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge&logo=checkmarx)
+![AWS](https://img.shields.io/badge/AWS-Deployed-FF9900?style=for-the-badge&logo=amazon-aws)
 
 [📂 View Repository](https://github.com/sai-sujan/wine-quality-mlops)
 
@@ -275,8 +275,8 @@ Output (4 cancer types)
 - **Framework:** TensorFlow 2.x
 - **Deployment:** Streamlit Cloud
 
-<img src="https://img.shields.io/badge/Healthcare_AI-Medical_Imaging-red?style=for-the-badge&logo=heart"/>
-<img src="https://img.shields.io/badge/Deep_Learning-Vision_Transformers-blueviolet?style=for-the-badge&logo=tensorflow"/>
+![Healthcare](https://img.shields.io/badge/Healthcare_AI-Medical_Imaging-red?style=for-the-badge&logo=heart)
+![DL](https://img.shields.io/badge/Deep_Learning-Vision_Transformers-blueviolet?style=for-the-badge&logo=tensorflow)
 
 [📂 Repository](https://github.com/sai-sujan/lung-cancer-vit)
 
@@ -343,23 +343,6 @@ Output (4 cancer types)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 💼 Professional Experience
-
-<div align="center">
-
-```mermaid
-gantt
-    title Professional ML Engineering Journey
-    dateFormat  YYYY-MM-DD
-    section iNeuron.ai
-    Data Science Intern    :2021-11-01, 2022-03-31
-    section Grootan Technologies
-    ML Intern             :2022-09-01, 2023-07-31
-    ML Engineer           :2023-07-01, 2023-12-31
-    section Missouri State
-    Graduate Student      :2024-01-01, 2025-12-31
-```
-
-</div>
 
 ### 🏢 Machine Learning Engineer | Grootan Technologies
 *July 2023 – December 2023 | Chennai, India*
@@ -454,35 +437,35 @@ achievements = {
 
 ```javascript
 const currentFocus = {
-    🎓 education: {
+    education: {
         degree: "M.S. Computer Science",
         university: "Missouri State University",
         gpa: "3.63/4.0",
         graduation: "December 2025"
     },
     
-    🔍 job_search: {
+    job_search: {
         seeking: "Full-time ML Engineer roles",
         sponsorship: "H-1B sponsorship required",
         work_auth: "F-1 OPT (36-month STEM extension available)",
         availability: "December 2025"
     },
     
-    📚 learning: [
+    learning: [
         "Advanced LLM Fine-tuning & Deployment",
         "Distributed Training at Scale",
         "Real-time ML Systems",
         "MLOps Best Practices"
     ],
     
-    🛠️ building: [
+    building: [
         "Production ML Pipelines",
         "Computer Vision Applications",
         "NLP Solutions with LLMs",
         "End-to-End MLOps Systems"
     ],
     
-    💪 strengths: [
+    strengths: [
         "End-to-End ML Development",
         "Production System Deployment",
         "Team Leadership & Collaboration",
@@ -576,7 +559,7 @@ const currentFocus = {
 
 ### 📊 Profile Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-sujan&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-sujan&theme=tokyonight)
 
 </div>
 
