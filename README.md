@@ -44,7 +44,7 @@ class MLEngineer:
 me = MLEngineer()
 ```
 
-🎓 **Currently:** Completing M.S. in Computer Science (GPA: 3.63/4.0)  
+🎓 **Currently:** Completed M.S. in Computer Science (GPA: 3.63/4.0)  
 💼 **Experience:** 2+ years building production ML systems  
 🔍 **Looking for:** Full-time ML Engineer roles with H-1B sponsorship  
 📫 **Reach me:** sujanworkofficial@gmail.com
