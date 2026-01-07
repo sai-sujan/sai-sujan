@@ -26,8 +26,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sai-sujan&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sai-sujan?label=Followers&style=for-the-badge&color=00D9FF&logo=github&logoColor=white" alt="Followers"/>
   <img src="https://img.shields.io/badge/🔥_Status-ACTIVELY_SEEKING_OPPORTUNITIES-success?style=for-the-badge" alt="Status"/>
 </p>
 
