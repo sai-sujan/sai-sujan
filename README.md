@@ -1,25 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00D9FF,100:0099FF&text=SUJAN%20DORA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20AI%20Innovator%20|%2099%25%20Reliability&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=SUJAN%20DORA&fontSize=70&fontColor=fff&stroke=00D9FF&strokeWidth=2&animation=fadeIn&fontAlignY=45&desc=Machine%20Learning%20Engineer%20|%20AI%20Innovator%20|%2099%25%20Reliability&descSize=20&descAlignY=65" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+AI+Engineering+Portfolio+%F0%9F%9A%80;Building+Production+ML+Systems+at+Scale;2%2B+Years+%7C+99%25+Reliability+%7C+97%25+Cost+Savings;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+MLOps+%E2%80%A2+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+AI+Engineering+Journey+%F0%9F%9A%80;Building+Production+ML+Systems+at+Scale;2%2B+Years+%7C+99%25+Reliability+%7C+97%25+Cost+Savings;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+MLOps+%E2%80%A2+Deep+Learning" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/sai-sujan-6110a4190">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   <a href="mailto:sujanworkofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
   <a href="https://sai-sujan.github.io/My-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
   </a>
   <a href="tel:+19408430811">
-    <img src="https://img.shields.io/badge/Phone-940.843.0811-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Call-9408430811-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sai-sujan&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
