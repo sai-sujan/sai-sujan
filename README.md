@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sai-sujan-6110a4190">
+  <a href="www.linkedin.com/in/sujan-dora-6110a4190">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:sujanworkofficial@gmail.com">
